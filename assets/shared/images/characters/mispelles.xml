@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mispelles.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="trollge_down0000" x="0" y="0" width="409" height="648" frameX="-1" frameY="-11" frameWidth="410" frameHeight="660"/>
+	<SubTexture name="trollge_down0001" x="0" y="0" width="409" height="648" frameX="-1" frameY="-11" frameWidth="410" frameHeight="660"/>
+	<SubTexture name="trollge_down0002" x="409" y="0" width="402" height="660" frameX="0" frameY="0" frameWidth="410" frameHeight="660"/>
+	<SubTexture name="trollge_down0003" x="409" y="0" width="402" height="660" frameX="0" frameY="0" frameWidth="410" frameHeight="660"/>
+	<SubTexture name="trollge_down0004" x="409" y="0" width="402" height="660" frameX="0" frameY="0" frameWidth="410" frameHeight="660"/>
+	<SubTexture name="trollge_idle0000" x="811" y="0" width="335" height="653" frameX="-1" frameY="-16" frameWidth="336" frameHeight="669"/>
+	<SubTexture name="trollge_idle0001" x="1146" y="0" width="336" height="669"/>
+	<SubTexture name="trollge_idle0002" x="1482" y="0" width="335" height="669" frameX="0" frameY="0" frameWidth="336" frameHeight="669"/>
+	<SubTexture name="trollge_idle0003" x="1817" y="0" width="335" height="657" frameX="0" frameY="-12" frameWidth="336" frameHeight="669"/>
+	<SubTexture name="trollge_idle0004" x="2152" y="0" width="335" height="657" frameX="0" frameY="-12" frameWidth="336" frameHeight="669"/>
+	<SubTexture name="trollge_idle0005" x="2487" y="0" width="336" height="657" frameX="0" frameY="-12" frameWidth="336" frameHeight="669"/>
+	<SubTexture name="trollge_idle0006" x="2823" y="0" width="336" height="658" frameX="0" frameY="-11" frameWidth="336" frameHeight="669"/>
+	<SubTexture name="trollge_idle0007" x="3159" y="0" width="336" height="658" frameX="0" frameY="-11" frameWidth="336" frameHeight="669"/>
+	<SubTexture name="trollge_idle0008" x="3495" y="0" width="336" height="657" frameX="0" frameY="-12" frameWidth="336" frameHeight="669"/>
+	<SubTexture name="trollge_idle0009" x="0" y="669" width="336" height="655" frameX="0" frameY="-14" frameWidth="336" frameHeight="669"/>
+	<SubTexture name="trollge_idle0010" x="0" y="669" width="336" height="655" frameX="0" frameY="-14" frameWidth="336" frameHeight="669"/>
+	<SubTexture name="trollge_idle0011" x="0" y="669" width="336" height="655" frameX="0" frameY="-14" frameWidth="336" frameHeight="669"/>
+	<SubTexture name="trollge_idle0012" x="0" y="669" width="336" height="655" frameX="0" frameY="-14" frameWidth="336" frameHeight="669"/>
+	<SubTexture name="trollge_idle0013" x="0" y="669" width="336" height="655" frameX="0" frameY="-14" frameWidth="336" frameHeight="669"/>
+	<SubTexture name="trollge_left0000" x="336" y="669" width="384" height="649" frameX="-7" frameY="0" frameWidth="391" frameHeight="649"/>
+	<SubTexture name="trollge_left0001" x="336" y="669" width="384" height="649" frameX="-7" frameY="0" frameWidth="391" frameHeight="649"/>
+	<SubTexture name="trollge_left0002" x="336" y="669" width="384" height="649" frameX="-7" frameY="0" frameWidth="391" frameHeight="649"/>
+	<SubTexture name="trollge_left0003" x="720" y="669" width="387" height="649" frameX="0" frameY="0" frameWidth="391" frameHeight="649"/>
+	<SubTexture name="trollge_left0004" x="720" y="669" width="387" height="649" frameX="0" frameY="0" frameWidth="391" frameHeight="649"/>
+	<SubTexture name="trollge_right0000" x="1107" y="669" width="311" height="650" frameX="0" frameY="-6" frameWidth="325" frameHeight="656"/>
+	<SubTexture name="trollge_right0001" x="1107" y="669" width="311" height="650" frameX="0" frameY="-6" frameWidth="325" frameHeight="656"/>
+	<SubTexture name="trollge_right0002" x="1418" y="669" width="318" height="656" frameX="-7" frameY="0" frameWidth="325" frameHeight="656"/>
+	<SubTexture name="trollge_right0003" x="1418" y="669" width="318" height="656" frameX="-7" frameY="0" frameWidth="325" frameHeight="656"/>
+	<SubTexture name="trollge_right0004" x="1418" y="669" width="318" height="656" frameX="-7" frameY="0" frameWidth="325" frameHeight="656"/>
+	<SubTexture name="trollge_up0000" x="1736" y="669" width="353" height="626" frameX="-3" frameY="-29" frameWidth="356" frameHeight="655"/>
+	<SubTexture name="trollge_up0001" x="2089" y="669" width="353" height="626" frameX="-3" frameY="-29" frameWidth="356" frameHeight="655"/>
+	<SubTexture name="trollge_up0002" x="2442" y="669" width="353" height="655" frameX="0" frameY="0" frameWidth="356" frameHeight="655"/>
+	<SubTexture name="trollge_up0003" x="2442" y="669" width="353" height="655" frameX="0" frameY="0" frameWidth="356" frameHeight="655"/>
+	<SubTexture name="trollge_up0004" x="2442" y="669" width="353" height="655" frameX="0" frameY="0" frameWidth="356" frameHeight="655"/>
+</TextureAtlas>
